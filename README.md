@@ -8,9 +8,8 @@ AI automation and integration consultant. I build production-ready systems that 
 
 | Project | What it does | Stack |
 |---|---|---|
-| [ai-lead-scraper](https://github.com/dorkian/ai-lead-scraper) | Extract qualified leads from Google Maps and free APIs | Python · FastAPI |
-| [lead-rescue-lite](https://github.com/dorkian/lead-rescue-lite) | Real estate lead automation with n8n workflows | Python · FastAPI · n8n · PostgreSQL |
-| [sales-call-analyzer-n8n](https://github.com/dorkian/sales-call-analyzer-n8n) | Auto-analyze sales calls and extract CRM-ready data | n8n · AI |
+| [ai-lead-scraper](https://github.com/dorkian/ai-lead-scraper) | Extract qualified leads from Google Maps and free APIs | Python · FastAPI | |
+| [sales-call-analyzer-n8n](https://github.com/dorkian/n8n-b2b-outbound-template) | Auto-analyze sales calls and extract CRM-ready data | n8n · AI |
 | [mcp-devexpress](https://github.com/dorkian/mcp-devexpress) | MCP server integration for DevExpress components | TypeScript |
 | [claude-market-control](https://github.com/dorkian/claude-market-control) | Zero-cost daily market analysis via 4-agent AI pipeline | Python · Claude SDK |
 
