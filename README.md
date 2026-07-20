@@ -8,6 +8,7 @@ AI automation and integration consultant. I build production-ready systems that 
 
 | Project | What it does | Stack |
 |---|---|---|
+| [sorena-ai-assistant](https://github.com/dorkian/Sorena) | A local-first AI assistant with a custom wake word, voice pipeline, and multi-persona agents. Zero cloud cost. | Python · FastAPI |
 | [ai-lead-scraper](https://github.com/dorkian/ai-lead-scraper) | Extract qualified leads from Google Maps and free APIs | Python · FastAPI |
 | [sales-call-analyzer-n8n](https://github.com/dorkian/sales-call-analyzer-n8n) | Auto-analyze sales calls and extract CRM-ready data | n8n · AI |
 | [mcp-devexpress](https://github.com/dorkian/mcp-devexpress) | MCP server integration for DevExpress components | TypeScript |
